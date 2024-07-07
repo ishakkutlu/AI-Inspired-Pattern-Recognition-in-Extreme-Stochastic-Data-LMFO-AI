@@ -8,16 +8,22 @@ The algorithm is an experimental application that aims to search for patterns an
 
 I would like to express my endless gratitude to my precious wife, Zeliha, and my daughter, Elif Mira, who never spared their support and understanding during the development process of this study.
 
-I hope it is useful.
-İshak Kutlu
-
 For more information about LMFO, please look at the presentation file named "LMFO_presentation" in the rar folder.
 
-Access the videos about LMFO.
-https://youtu.be/W_SxE2MBIeM
+Access the informative videos about LMFO.
+
+- https://youtu.be/W_SxE2MBIeM
+- https://youtu.be/BW2bPTa0lUc
+
 Stay tuned for detailed videos on the algorithm in the upcoming days.
 
-You can visit my website for more projects.
-https://ishakkutlu.com/portfoy/
+Follow my projects on my social media accounts.
+- https://ishakkutlu.com/
+- https://www.linkedin.com/in/ishakkutlu/
+- https://www.kaggle.com/shakkutlu
+- www.youtube.com/@kutluishak
+
+I hope it is useful.
+İshak Kutlu
 
 
