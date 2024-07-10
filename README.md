@@ -10,20 +10,22 @@ I would like to express my endless gratitude to my precious wife, Zeliha, and my
 
 For more information about LMFO, please look at the presentation file named "LMFO_presentation" in the rar folder.
 
-Access the informative videos about LMFO.
+Access the informative videos about LMFO AI.
+- Prediction performance: https://youtu.be/W_SxE2MBIeM
+- Algorithmic design and fundamental methods: https://youtu.be/BW2bPTa0lUc
+- Data Operations with Control File Module: https://youtu.be/NgN3LrCdy9g
 
-- https://youtu.be/W_SxE2MBIeM
-- https://youtu.be/BW2bPTa0lUc
+Stay updated on my projects across various social media channels:
+- Website: https://ishakkutlu.com/
+- LinkedIn: https://www.linkedin.com/in/ishakkutlu/
+- GitHub: https://github.com/ishakkutlu
+- Kaggle: https://www.kaggle.com/shakkutlu
+- YouTube: www.youtube.com/@kutluishak
 
 Stay tuned for detailed videos on the algorithm in the upcoming days.
 
-Follow my projects on my social media accounts.
-- https://ishakkutlu.com/
-- https://www.linkedin.com/in/ishakkutlu/
-- https://www.kaggle.com/shakkutlu
-- www.youtube.com/@kutluishak
-
 I hope it is useful.
+
 İshak Kutlu
 
 
