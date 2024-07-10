@@ -12,7 +12,7 @@ For more information about LMFO, please look at the presentation file named "LMF
 
 Access the informative videos about LMFO AI.
 - Prediction performance: https://youtu.be/W_SxE2MBIeM
-- Algorithmic design and fundamental methods: https://youtu.be/BW2bPTa0lUc
+- Algorithmic design and fundamental methods: https://youtu.be/qBeVRKxO18k
 - Data operations with control file module: https://youtu.be/NgN3LrCdy9g
 
 Stay updated on my projects across various social media channels:
