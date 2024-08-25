@@ -53,4 +53,9 @@ Special thanks to my wife, Zeliha, and my daughter, Elif Mira, for their unwaver
 • Kaggle: kaggle.com/shakkutlu
 • YouTube: youtube.com/@kutluishak
 
+### **Key Features:**
+- Architecture: Three-layer design.
+- Objective: Identify patterns and make predictions in large-scale combinatorial problems.
+- Methodology: Train and test the LMFO AI algorithm using past Keno (Number 10 in Türkiye) game results as the dataset.
+
 
