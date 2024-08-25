@@ -26,7 +26,7 @@ The LMFO AI algorithm was developed to tackle complex combinatorial challenges. 
 ### ***Key Features:***
 - Architecture: Three-layer design.
 - Objective: Identify patterns and optimize predictions in large-scale combinatorial problems.
-- Methodology: The algorithm is trained and tested on historical Keno (known as Number 10 in Türkiye) lottery game results, utilizing this dataset to validate its predictive power.
+- Methodology: The algorithm is trained and tested on historical Keno (known as Number Ten in Türkiye) lottery game results, utilizing this dataset to validate its predictive power.
 ### **Why Keno?**
 Keno, with its combinatorial complexity and mathematical properties, provides an ideal testbed for the LMFO AI algorithm. It represents the challenging nature of large-scale selection problems, making it a suitable experimental case.
 ### ***Benefits of Using Keno:***
