@@ -36,11 +36,11 @@ This project is not intended to promote gambling, and the algorithm's prediction
 ### **Acknowledgments**
 Special thanks to my wife, Zeliha, and my daughter, Elif Mira, for their unwavering support and inspiration.
 ### **Contact and Follow**
-• Website: ishakkutlu.com
-• LinkedIn: linkedin.com/in/ishakkutlu/
-• GitHub: github.com/ishakkutlu
-• Kaggle: kaggle.com/shakkutlu
-• YouTube: youtube.com/@kutluishak
+- Website: ishakkutlu.com
+- LinkedIn: linkedin.com/in/ishakkutlu/
+- GitHub: github.com/ishakkutlu
+- Kaggle: kaggle.com/shakkutlu
+- YouTube: youtube.com/@kutluishak
 
 ### **Key Features:**
 - Architecture: Three-layer design.
