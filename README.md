@@ -51,11 +51,11 @@ This project is not intended to promote gambling, and the algorithm's prediction
 ### **Acknowledgments**
 Special thanks to my wife, Zeliha, and my daughter, Elif Mira, for their unwavering support and inspiration.
 ### **Contact and Follow**
-- Website: ishakkutlu.com
-- LinkedIn: linkedin.com/in/ishakkutlu/
-- GitHub: github.com/ishakkutlu
-- Kaggle: kaggle.com/shakkutlu
-- YouTube: youtube.com/@kutluishak
+- Website: https://ishakkutlu.com
+- LinkedIn: https://linkedin.com/in/ishakkutlu/
+- GitHub: https://github.com/ishakkutlu
+- Kaggle: https://kaggle.com/shakkutlu
+- YouTube: https://youtube.com/@kutluishak
 
 ### **Update Dated August 26, 2024**
 - In the rar file named "Layered_Multiple_Frequency_Optimization", you will find the dataset for the Keno game, known as On Numara in Türkiye. In this Keno game, 22 out of 80 numbers are drawn, and the goal is to make correct predictions, such as 10 out of 10 or 9 out of 10, always using 10 numbers. The draws take place twice a week. This version of the LMFO AI will only work seamlessly when 22 numbers are drawn from a set of 80.
