@@ -4,7 +4,7 @@ This repository contains the LMFO AI (Layered Multiple Frequency Optimization) a
 ### **About LMFO AI**
 The LMFO AI algorithm was developed to tackle complex combinatorial challenges. By leveraging advanced AI and optimization techniques, it offers a robust solution framework for large-scale problems.
 ### ***Key Highlights:***
-- Achieved high accuracy in four Keno forecasts using Number Ten lottery game datasets.
+- Achieved high accuracy in four Keno forecasts using Number Ten lottery game datasets. 
 - Improved forecast accuracy through advanced predictive analytics.
 - Uncovered hidden patterns with a probability of 1 in 2.5 million.
 - Applied advanced data mining techniques to optimize combinatorial challenges in big data analytics.
