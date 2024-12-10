@@ -34,7 +34,7 @@ This repository hosts the LMFO AI (Layered Multiple Frequency Optimization) algo
 - Supporting Materials: Additional files and resources.
 ### **Documentation and Resources**
 For a deeper understanding of the LMFO AI algorithm, including its design and implementation, explore the following resources:
-- Explore detailed experimental results and performance analysis of LMFO AI: ([https://ishakkutlu.com/randomness-analysis-and-pattern-recognition-lmfo-ai/] "Discover the insights on my blog")
+- Explore detailed experimental results and performance analysis of LMFO AI: [Discover the insights on my blog](https://ishakkutlu.com/randomness-analysis-and-pattern-recognition-lmfo-ai/)
 - Part 1. Predictive performance: https://youtu.be/W_SxE2MBIeM
 - Part 2. Algorithm design and AI techniques: https://youtu.be/qBeVRKxO18k
 - Part 3. Fundamental data mining: https://youtu.be/NgN3LrCdy9g
