@@ -33,9 +33,8 @@ This repository hosts the LMFO AI (Layered Multiple Frequency Optimization) algo
 - Supporting Materials: Additional files and resources.
 ### **Documentation and Resources**
 For a deeper understanding of the LMFO AI algorithm, including its design and implementation, explore the following resources:
-- Explore detailed experimental results and performance analysis of LMFO AI: [Discover the insights on my blog](https://ishakkutlu.com/randomness-analysis-and-pattern-recognition-lmfo-ai/)
 - The LMFO algorithm was evaluated using specific initial solutions in the highly stochastic Number Ten (Turkey) dataset and performed better than random methods, particularly at higher match levels. The study explored its ability to uncover patterns in random data under certain conditions. For more details, you can refer to [this article](https://ishakkutlu.com/randomness-analysis-and-pattern-recognition-lmfo-ai/).
-- 
+- The LMFO algorithm's ability to recognize patterns and generalize in random datasets was evaluated using Number Ten (Turkey) and Lucky Day (Netherlands) lottery datasets. The algorithm's predictive performance, based on numerous initial solutions, was assessed against randomness through statistical significance tests. Consistency between validation and test set predictions was analyzed to evaluate its generalization capability. For more details, you can refer to [this article] (https://ishakkutlu.com/lmfo-ai-pattern-recognition-within-randomness-prediction-performance-and-generalization/).
 - Part 1. Predictive performance: https://youtu.be/W_SxE2MBIeM
 - Part 2. Algorithm design and AI techniques: https://youtu.be/qBeVRKxO18k
 - Part 3. Fundamental data mining: https://youtu.be/NgN3LrCdy9g
