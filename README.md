@@ -2,8 +2,7 @@
 ### **About LMFO AI**
 This repository hosts the LMFO AI (Layered Multiple Frequency Optimization) algorithm, a powerful framework designed to analyze extreme-stochastic datasets and uncover patterns within randomness. By addressing complex combinatorial challenges and computation-intensive tasks in big data analytics, LMFO AI demonstrates its ability to manage high-variability environments with precision and efficiency.
 ### ***Key Highlights:***
-- Designed and implemented the LMFO AI algorithm in Python to analyze extreme-stochastic datasets and achieve statistically significant results in highly random environments.
-- Integrated AI-driven methodologies and optimization strategies to address large-scale combinatorial challenges.
+- Designed and implemented AI-inspired methodologies and optimization strategies to analyze extreme-stochastic datasets and achieve statistically significant results in highly random environments.
 - Demonstrated statistically significant deviations from randomness, revealing meaningful insights in data with high stochasticity.
 - Achieved statistical breakthroughs by outperforming randomness by up to 21.5 times, showcasing LMFO's predictive capabilities.
 ### ***Technical Explanation:***
