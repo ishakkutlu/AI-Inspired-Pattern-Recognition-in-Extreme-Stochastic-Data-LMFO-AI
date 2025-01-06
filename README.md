@@ -1,7 +1,6 @@
 # AI-Inspired Pattern Recognition in Extreme-Stochastic Data: LMFO AI 
 ### **About LMFO AI**
 This repository hosts the LMFO AI (Layered Multiple Frequency Optimization) algorithm, a powerful framework designed to analyze extreme-stochastic datasets and achieve statistically significant deviations from randomness. Applied to datasets based on lottery results, such as Number Ten (Turkey) and Lucky Day (Netherlands), LMFO tackles complex combinatorial challenges and computation-intensive tasks in big data analytics. Its precision and efficiency make it a reliable tool for managing high-variability environments.
-
 ### ***Key Highlights:***
 - Designed and implemented AI-inspired methodologies and optimization strategies to analyze extreme-stochastic datasets and achieve statistically significant results in highly random environments.
 - Demonstrated statistically significant deviations from randomness, revealing meaningful insights in data with high stochasticity.
@@ -25,9 +24,9 @@ This repository hosts the LMFO AI (Layered Multiple Frequency Optimization) algo
 - Objective: Explore randomness and identify patterns in large-scale datasets, emphasizing AI-inspired methodologies.
 - Methodology: Demonstrates its capabilities using historical datasets from lottery draws (e.g., Keno), chosen for their high randomness and mathematical complexity.
 ### **Why Random Datasets Like Keno?**
-• Complexity: Reflects the structure of intricate combinatorial problems.
-• Randomness: Offers an ideal testbed for analyzing stochastic behaviors and validating algorithmic capabilities.
-• Mathematical Framework: Provides a rigorous foundation for experimental exploration.
+- Complexity: Reflects the structure of intricate combinatorial problems.
+- Randomness: Offers an ideal testbed for analyzing stochastic behaviors and validating algorithmic capabilities.
+- Mathematical Framework: Provides a rigorous foundation for experimental exploration.
 ### **Repository Contents**
 - Source Code: The full implementation of the LMFO AI algorithm.
 - Documentation: Detailed explanations and usage instructions.
@@ -35,6 +34,8 @@ This repository hosts the LMFO AI (Layered Multiple Frequency Optimization) algo
 ### **Documentation and Resources**
 For a deeper understanding of the LMFO AI algorithm, including its design and implementation, explore the following resources:
 - Explore detailed experimental results and performance analysis of LMFO AI: [Discover the insights on my blog](https://ishakkutlu.com/randomness-analysis-and-pattern-recognition-lmfo-ai/)
+- The LMFO algorithm was evaluated using specific initial solutions in the highly stochastic Number Ten (Turkey) dataset and performed better than random methods, particularly at higher match levels. The study explored its ability to uncover patterns in random data under certain conditions. For more details, you can refer to [this article](https://ishakkutlu.com/randomness-analysis-and-pattern-recognition-lmfo-ai/).
+- 
 - Part 1. Predictive performance: https://youtu.be/W_SxE2MBIeM
 - Part 2. Algorithm design and AI techniques: https://youtu.be/qBeVRKxO18k
 - Part 3. Fundamental data mining: https://youtu.be/NgN3LrCdy9g
