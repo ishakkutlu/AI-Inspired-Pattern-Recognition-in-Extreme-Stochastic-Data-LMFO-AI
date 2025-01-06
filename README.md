@@ -29,7 +29,7 @@ This repository hosts the LMFO AI (Layered Multiple Frequency Optimization) algo
 - Mathematical Framework: Provides a rigorous foundation for experimental exploration.
 ### **Repository Contents**
 - Source Code: The full implementation of the LMFO AI algorithm.
-- Documentation: Detailed explanations and usage instructions.
+- Documentation: Experimental studies, detailed explanations, and implementation instructions.
 - Supporting Materials: Additional files and resources.
 ### **Documentation and Resources**
 For a deeper understanding of the LMFO AI algorithm, including its design and implementation, explore the following resources:
