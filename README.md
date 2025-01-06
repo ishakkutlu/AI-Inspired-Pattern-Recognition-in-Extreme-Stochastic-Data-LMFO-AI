@@ -53,6 +53,16 @@ Special thanks to my wife, Zeliha, and my daughter, Elif Mira, for their unwaver
 - YouTube: https://youtube.com/@kutluishak
 
 ### **Update Dated August 26, 2024**
-- In the rar file named "Layered_Multiple_Frequency_Optimization", you will find the dataset for the Keno game, known as On Numara in Türkiye. In this Keno game, 22 out of 80 numbers are drawn, and the goal is to make correct predictions, such as 10 out of 10 or 9 out of 10, always using 10 numbers. The draws take place twice a week. This version of the LMFO AI will only work seamlessly when 22 numbers are drawn from a set of 80.
+- In the rar file named "Layered_Multiple_Frequency_Optimization", you will find the dataset for the Keno game, known as Number Ten in Turkey. In this Keno game, 22 out of 80 numbers are drawn, and the goal is to make correct predictions, such as 10 out of 10 or 9 out of 10, always using 10 numbers. The draws take place twice a week. This version of the LMFO AI will only work seamlessly when 22 numbers are drawn from a set of 80.
 - In the rar file named "Layered_Multiple_Frequency_Optimization_Lucky_Day", you will find the dataset for the Keno game known as Lucky Day in the Netherlands. In this Keno version, 20 out of 80 numbers are drawn, and the objective is to make correct predictions such as 10 out of 10, 9 out of 10, or 9 out of 9, 8 out of 9, etc., using varying amounts of numbers (e.g., 10, 9, 8, etc.). The draws are held daily. This version of the LMFO AI will work seamlessly with different draw scenarios, such as 22, 21, 20, 19, etc., out of 80 numbers.
 - The update has been made on the VBA side to ensure the algorithm can be validated on different Keno datasets; no updates have been made to the Python side.
+
+### **Update Dated January 7, 2025**
+- Resolved the problem where the algorithm would stop prematurely in cases involving "same solution" scenarios. This ensures continuous exploration without unnecessary interruptions.
+- Resolved the issue where users had to run the algorithm twice to restart it after interruptions during operation.
+- Implemented a logging feature to document the algorithm's step-by-step process while generating a large number of solutions. This allows researchers to closely monitor and analyze the solution generation process in detail.
+- Added switches to enable the algorithm to navigate among the neighboring solutions represented by the k parameters.
+- Introduced switches for enabling traversal during first-degree dimensionality reduction stages.
+- These modifications allow the algorithm to traverse broader and more diverse solution spaces, improving its ability to generate varied solutions.
+- Comprehensive experimental studies conducted on the Number Ten (Turkey) and Lucky Day (Netherlands) lottery datasets can be accessed via the [link provided](https://ishakkutlu.com/lmfo-ai-pattern-recognition-within-randomness-prediction-performance-and-generalization/).
+- The latest version of the algorithm, along with all materials related to the experimental study, is included in the "Randomness_Analysis_LMFO_AI_V02" zip file uploaded to this repository.
