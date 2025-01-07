@@ -65,4 +65,4 @@ Special thanks to my wife, Zeliha, and my daughter, Elif Mira, for their unwaver
 - Introduced switches for enabling traversal during first-degree dimensionality reduction stages.
 - These modifications allow the algorithm to traverse broader and more diverse solution spaces, improving its ability to generate varied solutions.
 - Comprehensive experimental studies conducted on the Number Ten (Turkey) and Lucky Day (Netherlands) lottery datasets can be accessed via the [link provided](https://ishakkutlu.com/lmfo-ai-pattern-recognition-within-randomness-prediction-performance-and-generalization/).
-- The latest version of the algorithm, along with all materials related to the experimental study, is included in the "Randomness_Analysis_LMFO_AI_V02" zip file uploaded to this repository.
+- The latest version of the algorithm, along with all materials related to the experimental study, is included in the "LMFO_AI_V02_Number_Ten" and "LMFO_AI_V02_Lucky_Day" rar files uploaded to this repository.
